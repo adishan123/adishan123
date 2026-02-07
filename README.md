@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adishan123
-- 👀 I’m interested in Web Designing and Front-end Developement roles.
+- 👀 I’m interested in Web Designing and Front-end Developement.
 - 🌱 I’m experienced in creating websites using React JS.
 - 💞️ I’m looking to full time job in front-end develpoment and web designing.
 - 📫 How to reach me :ishanadhikari45@gmail.com, +64 22 302 5169
